@@ -1,0 +1,2 @@
+git+https://github.com/pnsn/squacapi_client@v1.0
+
